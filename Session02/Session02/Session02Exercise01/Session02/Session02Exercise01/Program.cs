@@ -13,6 +13,11 @@ namespace Session02Exercise01
             Console.WriteLine("The value of the stringValue is: " + stringValue);
 
 
+
+            var integer = 0;
+
+            Console.WriteLine("Integer is " + integer.ToString());
+
         }
     }
 }
