@@ -19,6 +19,7 @@ namespace Session03Exercise03
                 try
                 {
                     numberArray[i] = Convert.ToDouble(inputArray[i]);
+
                  }
         catch (Exception)
         {
